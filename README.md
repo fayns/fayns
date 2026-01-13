@@ -9,7 +9,7 @@ class WelcomeToMeProfileGitHub {
 
 ## I`m:
 I have been a Java developer since 2019. I develop plugins for the computer game Minecraft. <br>
-My java programming level is Middle.
+My java programming level is Junior+.
 <br>
 <br>
 I also develop games on Unreal Engine 5, but this is not my job, just a second hobby.
