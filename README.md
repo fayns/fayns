@@ -9,4 +9,5 @@ class WelcomeToMeProfileGitHub {
 </br>
 
 ## I`m:
-ssss
+I have been a Java developer since 2019. I develop plugins for the computer game Minecraft. <br>
+My Java programming level is Middle
