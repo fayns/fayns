@@ -1,5 +1,5 @@
 ```java
-class HelloWorld {
+class WelcomeToMeProfileGitHub {
     public static void main(String[] args) {
         System.out.println("Hello! I`m Fayns");
     }
