@@ -15,4 +15,7 @@ My java programming level is Middle.
 I also develop games on Unreal Engine 5, but this is not my job, just a second hobby.
 <br>
 <br>
-the denser the forest if else if else.
+My English level corresponds to a grade of 2 for the semester. Therefore, if there are any errors in the text, I apologize.
+<br>
+<br>
+## the denser the forest if else if else.
