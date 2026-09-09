@@ -51,7 +51,7 @@ I'm building more website templates to expand my portfolio and improve my fronte
 
 ## 📫 Contact
 
-Telegram: [@kirill_fayns](https://t.me/@kirill_fayns)
+Telegram: [@kirill_fayns](https://t.me/kirill_fayns)
 
 Telegram Channel: [@devfayns](https://t.me/devfayns)
 
